@@ -38,8 +38,4 @@ Handles the initialization and all updates to the desktop, including populating 
 
 III. Supported browsers
 
-<<<<<<< HEAD
 Tested in Google Chrome, Mozilla Firefox (2.0, 3.0b2), Internet Explorer (6, 7), Opera (9), Safari (3.0).
-=======
-Tested in Mozilla Firefox (2.0, 3.0b2), Internet Explorer (6, 7), Opera (9), Safari (3.0).
->>>>>>> 6bf51ac7a4cb6dc14b1a0c611b0ecbfcf6beed08
